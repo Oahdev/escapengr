@@ -1,0 +1,76 @@
+#section-16{
+    padding: 60px 0px;
+    color: var(--dark-color);
+    #frame-20607{
+        width: 80%;
+        margin: auto;
+        #hero-header-text{
+            width: fit-content;
+            margin: auto;
+            margin-bottom: 60px;
+            p{
+                font-family: Switzer;
+                font-size: 48px;
+                font-weight: 700;
+                line-height: 60px;
+                letter-spacing: -1.2960000038146973px;
+                text-align: center;
+
+            }
+        }
+        .elementor-container{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            .bdt-ep-advanced-icon-box{
+                width: 20%;
+                padding: 45px;
+                text-align: center;
+                #bdt-ep-advanced-icon-box-image{
+                    margin-bottom: 36px;
+                    img{
+                        width: 128px;
+                        height: 128px;
+                    }
+                }
+                #frame-20608{
+                    #frame-5369{
+                        #frame-5369-head{
+                            font-family: DM Sans;
+                            font-size: 24px;
+                            font-weight: 700;
+                            line-height: 30px;
+                            letter-spacing: 0px;
+                            text-align: center;
+                            margin-bottom: 9px;
+
+                        }
+                        #frame-5369-text{
+                            font-family: DM Sans;
+                            font-size: 18px;
+                            font-weight: 400;
+                            line-height: 23px;
+                            letter-spacing: 0em;
+                            text-align: center;
+                            margin-bottom: 9px;
+
+                        }
+                    }
+                    #frame-20608-text{
+                        font-family: DM Sans;
+                        font-size: 18px;
+                        font-weight: 500;
+                        line-height: 26px;
+                        letter-spacing: 0em;
+                        text-align: center;
+                        color: var(--primary-color);
+
+                    }
+                }
+            }
+
+        }
+    }
+
+}
+

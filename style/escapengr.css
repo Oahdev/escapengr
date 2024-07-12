@@ -1,0 +1,253 @@
+#hero-page {
+  background-image: url(../img/happy-young-african-man-smiling-while-taking-selfie-cellphone-indoors\ 1.png);
+  background-color: var(--primary-color);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-blend-mode: luminosity;
+  height: 700px;
+  padding: 45px;
+}
+#hero-page #frame-2 {
+  margin-top: 45px;
+  width: 709px;
+  color: var(--light-color);
+}
+#hero-page #frame-2 #frame-2-inner-container #frame-1 {
+  margin-bottom: 9px;
+}
+#hero-page #frame-2 #frame-2-inner-container #frame-1 #frame-1-text {
+  font-family: Switzer;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 100px;
+  letter-spacing: -1px;
+  text-align: left;
+}
+#hero-page #frame-2 #frame-2-inner-container #frame-2-inner-container-text {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+#hero-page #frame-2 #frame-5369 {
+  width: 380px;
+  display: flex;
+  justify-content: space-between;
+}
+#hero-page #frame-2 #frame-5369 img {
+  width: 182px;
+  height: 64px;
+}
+#hero-page #frame-6 {
+  display: flex;
+  width: 714px;
+  justify-content: space-between;
+  align-items: center;
+  float: right;
+  margin-top: 250px;
+}
+#hero-page #frame-6 p {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: var(--light-color);
+}
+#hero-page #frame-6 img {
+  width: 142px;
+  height: 51px;
+}
+
+#hero-page-2 {
+  color: var(--dark-color);
+  padding: 80px 0px;
+}
+#hero-page-2 #frame-15 {
+  width: 95%;
+  margin: auto;
+  text-align: center;
+}
+#hero-page-2 #frame-15 #frame-15-header-text {
+  margin-bottom: 81px;
+}
+#hero-page-2 #frame-15 #frame-15-header-text p {
+  font-family: Switzer;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: var(--primary-color);
+}
+#hero-page-2 #frame-15 #frame-9 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+#hero-page-2 #frame-15 #frame-9 #frame-10 {
+  width: 420px;
+  padding: 9px;
+  text-align: left;
+  margin-bottom: 27px;
+}
+#hero-page-2 #frame-15 #frame-9 #frame-10 img {
+  width: 91px;
+  height: 108px;
+  margin-bottom: 18px;
+}
+#hero-page-2 #frame-15 #frame-9 #frame-10 #frame-2 #frame-2-header-text {
+  font-family: Switzer;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0px;
+  margin-bottom: 9px;
+}
+#hero-page-2 #frame-15 #frame-9 #frame-10 #frame-2 #frame-2-sub-text {
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0px;
+}
+
+#section-13 {
+  padding-top: 54px;
+  color: var(--dark-color);
+}
+#section-13 #frame-20605 {
+  width: 93%;
+  margin: auto;
+}
+#section-13 #frame-20605 #frame-20605-header-text {
+  font-family: Switzer;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -1.2960000038px;
+  text-align: left;
+  margin-bottom: 36px;
+}
+#section-13 #frame-20605 #frame-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+}
+#section-13 #frame-20605 #frame-2 #adviceor {
+  background-color: var(--adviceor-color);
+  margin-bottom: 36px;
+  width: 400px;
+  text-align: left;
+  padding: 20px;
+  border-radius: 8px;
+  height: 179px;
+}
+#section-13 #frame-20605 #frame-2 #adviceor #frame-20603 {
+  margin-bottom: 13px;
+}
+#section-13 #frame-20605 #frame-2 #adviceor #frame-20603 #frame-20604 {
+  margin-bottom: 9px;
+}
+#section-13 #frame-20605 #frame-2 #adviceor #frame-20603 #frame-20604 img {
+  width: 48px;
+  height: 48px;
+  background-color: var(--primary-color);
+  border-radius: 50px;
+}
+#section-13 #frame-20605 #frame-2 #adviceor #frame-20603 #frame-20603-text {
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+#section-13 #frame-20605 #frame-2 #adviceor #adviceor-text {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#section-16 {
+  padding: 63px 0px;
+  color: var(--dark-color);
+}
+#section-16 #section-16-container {
+  width: 93%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+#section-16 #section-16-container #section-16-img img {
+  width: 512px;
+}
+#section-16 #section-16-container #frame-2 {
+  padding: 27px 0px;
+  width: 543px;
+}
+#section-16 #section-16-container #frame-2 #frame-2-container {
+  margin: auto;
+}
+#section-16 #section-16-container #frame-2 #frame-2-container #frame-2-header-text {
+  font-family: Switzer;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -1.2960000038px;
+  text-align: left;
+  margin-bottom: 18px;
+}
+#section-16 #section-16-container #frame-2 #frame-2-container #frame-2-sub-text {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#section-15 #section-15-container {
+  width: 81%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+#section-15 #section-15-container #frame-2 {
+  width: 450px;
+  padding-right: 27px;
+  margin-bottom: 27px;
+}
+#section-15 #section-15-container #frame-2 #frame-2-header-text {
+  font-family: Switzer;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -1.2960000038px;
+  text-align: left;
+  margin-bottom: 18px;
+}
+#section-15 #section-15-container #frame-2 #frame-2-sub-text {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+#section-15 #section-15-container #section-15-img {
+  width: 428px;
+}/*# sourceMappingURL=escapengr.css.map */

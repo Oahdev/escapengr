@@ -1,0 +1,66 @@
+#section-16 {
+  padding: 60px 0px;
+  color: var(--dark-color);
+}
+#section-16 #frame-20607 {
+  width: 80%;
+  margin: auto;
+}
+#section-16 #frame-20607 #hero-header-text {
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 60px;
+}
+#section-16 #frame-20607 #hero-header-text p {
+  font-family: Switzer;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -1.2960000038px;
+  text-align: center;
+}
+#section-16 #frame-20607 .elementor-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#section-16 #frame-20607 .elementor-container .bdt-ep-advanced-icon-box {
+  width: 20%;
+  padding: 45px;
+  text-align: center;
+}
+#section-16 #frame-20607 .elementor-container .bdt-ep-advanced-icon-box #bdt-ep-advanced-icon-box-image {
+  margin-bottom: 36px;
+}
+#section-16 #frame-20607 .elementor-container .bdt-ep-advanced-icon-box #bdt-ep-advanced-icon-box-image img {
+  width: 128px;
+  height: 128px;
+}
+#section-16 #frame-20607 .elementor-container .bdt-ep-advanced-icon-box #frame-20608 #frame-5369 #frame-5369-head {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0px;
+  text-align: center;
+  margin-bottom: 9px;
+}
+#section-16 #frame-20607 .elementor-container .bdt-ep-advanced-icon-box #frame-20608 #frame-5369 #frame-5369-text {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-bottom: 9px;
+}
+#section-16 #frame-20607 .elementor-container .bdt-ep-advanced-icon-box #frame-20608 #frame-20608-text {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: var(--primary-color);
+}/*# sourceMappingURL=contact-us.css.map */

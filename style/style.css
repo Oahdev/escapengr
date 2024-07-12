@@ -1,0 +1,122 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --primary-color: #ED6414;
+  --dark-color: #0E0E0E;
+  --light-color: #FFFFFF;
+  --footer-color: #201155;
+  --adviceor-color: #fdefe7;
+  --primary-font-family: DM Sans;
+  --secondary-font-family: Switzer;
+}
+
+body {
+  font-family: var(--primary-font-family);
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
+
+#header-container {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  height: 72px;
+  padding: 18px 54px;
+  align-items: center;
+}
+#header-container ul {
+  display: flex;
+  justify-content: space-around;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 23px;
+  gap: 36px;
+}
+#header-container ul li {
+  list-style: none;
+}
+#header-container ul li a {
+  text-decoration: none;
+  color: var(--dark-color);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#section-12 {
+  height: 600px;
+  padding: 51px 0px;
+}
+#section-12 img {
+  width: 100%;
+}
+
+#section-14 {
+  padding: 0px 51px 35.0300292969px 50px;
+}
+#section-14 .elementor-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -2px;
+  border-radius: 16px;
+  background-color: var(--primary-color);
+  background-image: url(../img/div.elementor-background-overlay.png);
+}
+#section-14 #elementor-section-img {
+  width: 576px;
+  margin-top: -82px;
+}
+#section-14 #frame-17 {
+  width: 668px;
+  height: 252px;
+  display: grid;
+  margin-right: 4%;
+}
+#section-14 #frame-17 #frame-17-text {
+  height: 180px;
+  font-family: Switzer;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -1.2960000038px;
+  text-align: left;
+  color: var(--light-color);
+}
+#section-14 #frame-17 #frame-16 {
+  width: 40%;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+#section-14 #frame-17 #frame-16 img {
+  width: 120px;
+  border-radius: 8px;
+  border: 1px;
+}
+
+footer {
+  height: 100px;
+  padding: 0px 0px 0px 47px;
+  background: var(--footer-color);
+  display: flex;
+  align-items: center;
+}
+footer p {
+  height: 21px;
+  top: 39.9699707031px;
+  left: 47px;
+  font-family: var(--primary-font-family);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--light-color);
+}/*# sourceMappingURL=style.css.map */
